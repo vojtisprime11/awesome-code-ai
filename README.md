@@ -125,4 +125,4 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 
 
 [^21]: https://github.com/prakashdakua/awesome-readme
-
+- [BreakShield CI](https://breakshield-ci.vercel.app) - AI-powered auto-fix for breaking API changes detected via AST in GitHub PRs.
